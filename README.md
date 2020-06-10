@@ -1,1 +1,1 @@
-To have a better view of the notebooks, please visit this link of the nbviewer: https://nbviewer.jupyter.org/github/dcaohuu18/XTERN-data-science/tree/master/ https://nbviewer.jupyter.org/github/dcaohuu18/saffronart_stats_analysis/tree/master/ 
+To have a better view of the notebooks, please visit this link of the nbviewer: https://nbviewer.jupyter.org/github/dcaohuu18/saffronart_stats_analysis/tree/master/ 
